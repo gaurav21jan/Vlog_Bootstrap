@@ -1,0 +1,10 @@
+.jumbo{
+    background-image: url(https://cdn.pixabay.com/photo/2020/09/28/15/02/gym-5610139_1280.png);
+    opacity: 80;
+    font-family: 'Merienda', cursive;
+}
+.mainhead{
+    font-family: 'Merienda', cursive;
+    font-size: 2vw;
+    color: rgb(194, 26, 26);
+}
